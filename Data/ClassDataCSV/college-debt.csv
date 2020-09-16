@@ -1,0 +1,251 @@
+Name,City,State,Type,Debt
+University of Pennsylvania,Philadelphia,PA,Private,19442
+Montana State University-Billings,Billings,MT,Public,27225
+Pacific University,Forest Grove,OR,Private,25844
+Eastern Washington University,Cheney,WA,Public,27259
+Mount Olive College,Mount Olive,NC,Private,28241
+University of Arkansas,Fayetteville,AR,Public,24120
+Case Western Reserve University,Cleveland,OH,Private,33343
+Bloomfield College,Bloomfield,NJ,Private,33443
+University of North Carolina Wilmington,Wilmington,NC,Public,25644
+Stephen F Austin State University,Nacogdoches,TX,Public,27278
+Thomas College,Waterville,ME,Private,36278
+Clayton  State University,Morrow,GA,Public,30423
+Kentucky State University,Frankfort,KY,Public,34110
+University of Maine,Orono,ME,Public,33875
+Brevard College,Brevard,NC,Private,35211
+Kansas Wesleyan University,Salina,KS,Private,31230
+Saint Leo University,Saint Leo,FL,Private,27436
+Life University,Marietta,GA,Private,30000
+SUNY at Purchase College,Purchase,NY,Public,26348
+Marywood University,Scranton,PA,Private,41559
+Indiana University-South Bend,South Bend,IN,Public,29919
+Marylhurst University,Marylhurst,OR,Private,34399
+Carroll College,Helena,MT,Private,26996
+Southwestern Oklahoma State University,Weatherford,OK,Public,16262
+University of Illinois at Chicago,Chicago,IL,Public,23158
+SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY,Public,24952
+University of Connecticut,Storrs,CT,Public,24999
+Rose-Hulman Institute of Technology,Terre Haute,IN,Private,35420
+Georgetown University,Washington,DC,Private,22464
+Saint Mary's College of California,Moraga,CA,Private,32803
+Franklin College,Franklin,IN,Private,32451
+Lawrence Technological University,Southfield,MI,Private,38966
+Reed College,Portland,OR,Private,19151
+Principia College,Elsah,IL,Private,23732
+Menlo College,Atherton,CA,Private,29943
+Pomona College,Claremont,CA,Private,16273
+University of Tulsa,Tulsa,OK,Private,29161
+Lincoln Memorial University,Harrogate,TN,Private,19987
+Drew University,Madison,NJ,Private,24778
+Florida Atlantic University,Boca Raton,FL,Public,21448
+State University of New York at New Paltz,New Paltz,NY,Public,25874
+Metropolitan State University of Denver,Denver,CO,Public,28468
+California State University-Los Angeles,Los Angeles,CA,Public,14788
+University of Nebraska-Lincoln,Lincoln,NE,Public,23395
+Azusa Pacific University,Azusa,CA,Private,20612
+Cedarville University,Cedarville,OH,Private,29105
+Marietta College,Marietta,OH,Private,39708
+California Institute of the Arts,Valencia,CA,Private,38770
+University of South Carolina-Aiken,Aiken,SC,Public,28104
+College of Saint Mary,Omaha,NE,Private,29538
+St Thomas Aquinas College,Sparkill,NY,Private,28750
+Loras College,Dubuque,IA,Private,34514
+University of North Florida,Jacksonville,FL,Public,19253
+Evangel University,Springfield,MO,Private,30179
+University of Wisconsin-Madison,Madison,WI,Public,26579
+San Francisco Conservatory of Music,San Francisco,CA,Private,24500
+Randolph-Macon College,Ashland,VA,Private,34930
+Glenville State College,Glenville,WV,Public,27932
+Chapman University,Orange,CA,Private,27979
+Northwest University,Kirkland,WA,Private,27479
+University of Alaska Anchorage,Anchorage,AK,Public,26569
+Miami University-Oxford,Oxford,OH,Public,27181
+Saint Mary's College,Notre Dame,IN,Private,30910
+Calumet College of Saint Joseph,Whiting,IN,Private,30847
+School of Visual Arts,New York,NY,Private,33172
+New York School of Interior Design,New York,NY,Private,33146
+Hilbert College,Hamburg,NY,Private,20139
+Keene State College,Keene,NH,Public,33796
+Wellesley College,Wellesley,MA,Private,12956
+The University of Findlay,Findlay,OH,Private,34434
+Wheeling Jesuit University,Wheeling,WV,Private,29131
+San Diego State University,San Diego,CA,Public,18400
+Belmont Abbey College,Belmont,NC,Private,27341
+University of Vermont,Burlington,VT,Public,27276
+Lynn University,Boca Raton,FL,Private,30938
+Cooper Union for the Advancement of Science and Art,New York,NY,Private,19072
+Loyola University Maryland,Baltimore,MD,Private,34190
+Nichols College,Dudley,MA,Private,32747
+Bentley University,Waltham,MA,Private,30602
+Francis Marion University,Florence,SC,Public,28979
+Pennsylvania State University-Penn State Berks,Reading,PA,Public,36935
+Saint Joseph's College-New York,Brooklyn,NY,Private,23772
+Chaminade University of Honolulu,Honolulu,HI,Private,26323
+Adelphi University,Garden City,NY,Private,32328
+University of San Diego,San Diego,CA,Private,30225
+Hampton University,Hampton,VA,Private,9231
+CUNY York College,Jamaica,NY,Public,4745
+Massachusetts Maritime Academy,Buzzards Bay,MA,Public,37582
+Elon University,Elon,NC,Private,27176
+California State University-Monterey Bay,Seaside,CA,Public,18992
+University of West Georgia,Carrollton,GA,Public,27494
+Florida Southern College,Lakeland,FL,Private,24314
+Georgia Southwestern State University,Americus,GA,Public,23450
+Dakota State University,Madison,SD,Public,24728
+University of Alabama at Birmingham,Birmingham,AL,Public,30642
+Humboldt State University,Arcata,CA,Public,19351
+Washington College,Chestertown,MD,Private,35833
+Concordia University-Ann Arbor,Ann Arbor,MI,Private,17853
+McKendree University,Lebanon,IL,Private,21731
+Grand View University,Des Moines,IA,Private,38160
+Bates College,Lewiston,ME,Private,18929
+Boston College,Chestnut Hill,MA,Private,21139
+Manhattan College,Riverdale,NY,Private,37449
+Fairmont State University,Fairmont,WV,Public,26420
+Hendrix College,Conway,AR,Private,26203
+Fordham University,Bronx,NY,Private,37607
+St Catherine University,Saint Paul,MN,Private,39748
+University of Pikeville,Pikeville,KY,Private,20087
+Luther College,Decorah,IA,Private,36918
+Virginia State University,Petersburg,VA,Public,28250
+Cairn University-Langhorne,Langhorne,PA,Private,33016
+University of Wisconsin-Stout,Menomonie,WI,Public,27397
+Loyola University Chicago,Chicago,IL,Private,31089
+Mayville State University,Mayville,ND,Public,31681
+Elizabethtown College,Elizabethtown,PA,Private,30355
+Southeast Missouri State University,Cape Girardeau,MO,Public,26508
+Oklahoma City University,Oklahoma City,OK,Private,27819
+Cornell College,Mount Vernon,IA,Private,25004
+University of Oklahoma-Norman Campus,Norman,OK,Public,23151
+Pennsylvania State University-Penn State Worthington Scranton,Dunmore,PA,Public,36935
+Webber International University,Babson Park,FL,Private,24578
+Columbus College of Art and Design,Columbus,OH,Private,32006
+University of Louisville,Louisville,KY,Public,23375
+Duquesne University,Pittsburgh,PA,Private,34522
+Eastern University,Saint Davids,PA,Private,34662
+Columbus State University,Columbus,GA,Public,30142
+LIU Post,Brookville,NY,Private,35474
+Aquinas College,Grand Rapids,MI,Private,22396
+Alverno College,Milwaukee,WI,Private,38642
+Fort Hays State University,Hays,KS,Public,25172
+Whittier College,Whittier,CA,Private,37379
+Macalester College,Saint Paul,MN,Private,24156
+University of California-Santa Barbara,Santa Barbara,CA,Public,21045
+Meredith College,Raleigh,NC,Private,34535
+Pennsylvania State University-Penn State Harrisburg,Middletown,PA,Public,36935
+California State University-San Marcos,San Marcos,CA,Public,22024
+Bellarmine University,Louisville,KY,Private,31381
+Ursuline College,Pepper Pike,OH,Private,29542
+Kansas City Art Institute,Kansas City,MO,Private,25000
+Rice University,Houston,TX,Private,22241
+Siena College,Loudonville,NY,Private,32678
+New York University,New York,NY,Private,27977
+Worcester State University,Worcester,MA,Public,25654
+Indiana University-Kokomo,Kokomo,IN,Public,26651
+Montclair State University,Montclair,NJ,Public,28070
+Brenau University,Gainesville,GA,Private,33376
+Martin Luther College,New Ulm,MN,Private,17391
+Willamette University,Salem,OR,Private,26936
+Savannah College of Art and Design,Savannah,GA,Private,36088
+Calvin College,Grand Rapids,MI,Private,29403
+Agnes Scott College,Decatur,GA,Private,27763
+Naropa University,Boulder,CO,Private,23755
+Ohio University-Lancaster Campus,Lancaster,OH,Public,27645
+The University of Alabama,Tuscaloosa,AL,Public,29320
+Bethel College-North Newton,North Newton,KS,Private,24132
+Taylor University,Upland,IN,Private,25125
+Utica College,Utica,NY,Private,42083
+Maranatha Baptist University,Watertown,WI,Private,14851
+University of Akron Main Campus,Akron,OH,Public,23124
+Southwestern College,Winfield,KS,Private,33478
+Regent University,Virginia Beach,VA,Private,36564
+Hood College,Frederick,MD,Private,31229
+Wisconsin Lutheran College,Milwaukee,WI,Private,26896
+Philadelphia University,Philadelphia,PA,Private,40101
+Bowdoin College,Brunswick,ME,Private,25503
+The University of Texas at Austin,Austin,TX,Public,27207
+Curry College,Milton,MA,Private,43388
+SUNY College at Geneseo,Geneseo,NY,Public,23308
+SUNY College at Cortland,Cortland,NY,Public,27472
+The University of Texas at San Antonio,San Antonio,TX,Public,27337
+Grand Valley State University,Allendale,MI,Public,30222
+Valparaiso University,Valparaiso,IN,Private,35449
+SUNY at Fredonia,Fredonia,NY,Public,28900
+Tusculum College,Greeneville,TN,Private,29162
+The University of Tennessee-Martin,Martin,TN,Public,28701
+Chestnut Hill College,Philadelphia,PA,Private,35376
+Norwich University,Northfield,VT,Private,32498
+Ohio University-Chillicothe Campus,Chillicothe,OH,Public,27645
+Texas Southern University,Houston,TX,Public,43600
+California State University-Bakersfield,Bakersfield,CA,Public,11735
+Hodges University,Naples,FL,Private,17775
+Mount St Mary's University,Emmitsburg,MD,Private,36130
+Lawrence University,Appleton,WI,Private,33755
+School of the Art Institute of Chicago,Chicago,IL,Private,42097
+St Mary's College of Maryland,St. Mary's City,MD,Public,24621
+Muskingum University,New Concord,OH,Private,33488
+Thomas Jefferson University,Philadelphia,PA,Private,55363
+Lebanon Valley College,Annville,PA,Private,36752
+Lasell College,Newton,MA,Private,37302
+Webb Institute,Glen Cove,NY,Private,10000
+University of Mississippi,University,MS,Public,26443
+Sterling College,Sterling,KS,Private,28221
+Warren Wilson College,Swannanoa,NC,Private,24839
+Midwestern State University,Wichita Falls,TX,Public,25550
+Western Illinois University,Macomb,IL,Public,28785
+University of Washington-Bothell Campus,Bothell,WA,Public,19536
+Longwood University,Farmville,VA,Public,27644
+University of Oregon,Eugene,OR,Public,24508
+Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,Private,31591
+Concordia University-Texas,Austin,TX,Private,24882
+Haverford College,Haverford,PA,Private,15540
+Eastern Connecticut State University,Willimantic,CT,Public,26921
+Mills College,Oakland,CA,Private,31273
+Hartwick College,Oneonta,NY,Private,26708
+Samford University,Birmingham,AL,Private,26543
+Hollins University,Roanoke,VA,Private,37332
+Hillsdale Free Will Baptist College,Moore,OK,Private,23500
+Rhode Island College,Providence,RI,Public,25567
+Tiffin University,Tiffin,OH,Private,32679
+St Bonaventure University,Saint Bonaventure,NY,Private,35627
+Skidmore College,Saratoga Springs,NY,Private,22887
+Amherst College,Amherst,MA,Private,14490
+Roanoke College,Salem,VA,Private,34320
+Coe College,Cedar Rapids,IA,Private,31992
+Belmont University,Nashville,TN,Private,28306
+University of Bridgeport,Bridgeport,CT,Private,21200
+Niagara University,Niagara University,NY,Private,30289
+Westminster College,Salt Lake City,UT,Private,27523
+Campbell University,Buies Creek,NC,Private,27578
+University of New Hampshire at Manchester,Manchester,NH,Public,29393
+University of Colorado Colorado Springs,Colorado Springs,CO,Public,19780
+Lock Haven University,Lock Haven,PA,Public,29353
+Marist College,Poughkeepsie,NY,Private,34801
+Oglethorpe University,Atlanta,GA,Private,24058
+Friends University,Wichita,KS,Private,15289
+Cazenovia College,Cazenovia,NY,Private,29998
+Rutgers University-Newark,Newark,NJ,Public,26993
+Marshall University,Huntington,WV,Public,26625
+Freed-Hardeman University,Henderson,TN,Private,31185
+Lipscomb University,Nashville,TN,Private,30480
+Millersville University of Pennsylvania,Millersville,PA,Public,29791
+Culver-Stockton College,Canton,MO,Private,24487
+Dallas Baptist University,Dallas,TX,Private,28279
+Trinity College,Hartford,CT,Private,28237
+Bethel University,Saint Paul,MN,Private,33685
+Rutgers University-Camden,Camden,NJ,Public,28651
+The University of Tennessee-Chattanooga,Chattanooga,TN,Public,21420
+University of Florida,Gainesville,FL,Public,20642
+Amridge University,Montgomery,AL,Private,10500
+Berklee College of Music,Boston,MA,Private,15838
+University of Wisconsin-River Falls,River Falls,WI,Public,27134
+Kean University,Union,NJ,Public,32886
+Bowie State University,Bowie,MD,Public,29737
+Pennsylvania State University-Penn State New Kensington,New Kensington,PA,Public,36935
+Southern Oregon University,Ashland,OR,Public,30936
+Yeshiva University,New York,NY,Private,24101
+D'Youville College,Buffalo,NY,Private,33169
+Pitzer College,Claremont,CA,Private,19422
+Oberlin College,Oberlin,OH,Private,25018
+University of Wisconsin-Whitewater,Whitewater,WI,Public,27623
